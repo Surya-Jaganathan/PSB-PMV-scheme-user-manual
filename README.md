@@ -93,7 +93,7 @@ On clicking the specific URL, you will land on Log in page as shown below.
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
 
-![Home Page](image-1.png)
+![Home Page](Home screen.png)
 
 ### 1.2.2	Sanctioned Applications
 
@@ -126,11 +126,11 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 1.** Click Sanctioned Inbox the list of applications will display as shown below.
 
-![Sanction Inbox](image-2.png)
+![Sanction Inbox](Sanction Inbox.png)
 
 **Step 2.** Click View Application to view the corresponding application.
 
-![Detils tab](image-3.png)
+![Detils tab](San_View application.png)
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated and non editable.
 
@@ -206,7 +206,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 1.** Click **Branch Assisted Inbox** the list of applications will display as shown below.
 
-![Branch Assisted Journey](image-10.png)
+![Branch Assisted Journey](Branch assisted inbox.png)
 
 **Step 2.** Click **View Application** to view the corresponding application.
 
@@ -235,8 +235,6 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 **Step 12.** If BRE fails, the system will mark the status as **Rejected** and status will be updated in PM Vishwakarma portal along with the rejection reason.
 
 **Step 13.** On the successful completion of all the BRE parameters, the case will be marked as **Approved** digitally and the status will be reverse updated to the PM Vishwakarma portal.
-
-
 
 > Note:
 >Once the application is approved, system triggers the email to branches.
@@ -285,7 +283,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 3.** Click **Download Report** to download the date and displayed in excel format.
 
-![Closed Application](image-15.png)
+![Closed Application](Closed application.png)
 
 **Step 4.** Loan accounts for which the status update to the portal failed at the time of running scheduler will be displayed in **Update Failed**.
 
