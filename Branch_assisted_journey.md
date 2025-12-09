@@ -66,8 +66,8 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 ![Reject screen](Reject.png)
 
-Click here to view [Closed Application](Branchassistedjourney.md)
+Click here to view [Closed Application](Branch_assisted_journey.md)
 
-Click here to view [Branch Assisted Journey](branchassistedjourney.md)
+Click here to view [Branch Assisted Journey](branch_assisted_journey.md)
 
-Click here to view [Sanction Inbox](###1.2.2SanctionedApplications)
+Click here to view [Sanction Inbox](#SanctionedApplications)
