@@ -210,7 +210,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 2.** Click **View Application** to view the corresponding application.
 
-![Details Tab](image-11.png)
+![Details Tab](image-6.png)
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated.
 
@@ -218,7 +218,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 5.**	The system enables the **Modify** option, allowing the account number field to be edited. 
 
-![Modify Account Number](image-12.png)
+![Modify Account Number](Modify.png)
 
 **Step 6.** Enter the correct savings account number in modify account number popup.
 
