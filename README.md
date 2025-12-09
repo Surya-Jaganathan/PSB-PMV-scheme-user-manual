@@ -202,7 +202,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 1.** Click **Branch Assisted Inbox** the list of applications will display as shown below.
 
-![Branch Assisted Journey](History.png)
+![Branch Assisted Journey](Branch assisted inbox.png)
 
 **Step 2.** Click **View Application** to view the corresponding application.
 
