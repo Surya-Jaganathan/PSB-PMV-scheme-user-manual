@@ -194,9 +194,9 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 4.** The system handles CIBIL API initiation: 
 
-•	If initiation fails due to technical issues, the system updates the status to CIBIL API Failed and allows reinitiation.
+    •	If initiation fails due to technical issues, the system updates the status to CIBIL API Failed and allows reinitiation.
 
-•	If initiation succeeds, the system waits for the response and then proceeds to BRE check.
+    •	If initiation succeeds, the system waits for the response and then proceeds to BRE check.
 
 **Step 5.**	The system runs the BRE check, upon BRE succeeds, the system updates the status to Approved, moves the application to the Auto Sanctioned Inbox, and triggers the Call Sanction API to update the PMV Portal.
 
