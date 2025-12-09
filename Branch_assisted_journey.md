@@ -66,8 +66,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 ![Reject screen](Reject.png)
 
-[Closed Application](PSB-PMV-scheme-user-manual
-/Closed_application_inbox.md)
+[Closed Application](https://github.com/Surya-Jaganathan/PSB-PMV-scheme-user-manual/blob/858615c2af6c8cc77ec117378a06e1eea910fd1b/Closed_application_inbox.md)
 
 ![Modify Account Number](Modify.png)
 
