@@ -28,12 +28,12 @@ This document is prepared by SysArc Infomatix Pvt Ltd. SysArc Infomatix Pvt Ltd.
 - [Chapter 1 Getting Started](#GS)
     - [Introduction](#i)
     - [LAPS Scheduler to Fetch Leads from Portal](#laps)
-    - [Login Page](#login-page)
+    - [Login Page](#login)
         - [Sanctioned Applications](#sanctioned-applications)
-            - [Process Flow](#process-flow)
+            - [Process Flow](#process-flow_SP)
             - [Sanction Inbox](#sanction-inbox)
         - [Branch Assisted Journey](#branch-assisted-journey)
-            - [Process Flow](#process-flow)
+            - [Process Flow](#process-flow_BA)
             - [Branch Assisted Inbox](#branch-assisted-inbox)
         - [Closed Application](#closed-application)
             - [Process Flow](#process-flow)
@@ -81,7 +81,7 @@ All the PM Vishwakarma applications punched by the applicants will be fetched by
 > - If pre-BRE check fails, it will display under **Branch Assisted Inbox** for Manual processing of the application.
 > - If MAIN Bre check fails, it will display under **Branch Assisted Inbox** to know the reason for the failure.
 
-## 1.2.1	Login Page
+## 1.2.1	Login Page<a name='login'></a>
 On clicking the specific URL, you will land on Log in page as shown below.
 
 ![Login page](login page.png)
@@ -91,9 +91,9 @@ On clicking the specific URL, you will land on Log in page as shown below.
 
 ![Home Page](Home screen.png)
 
-### 1.2.2	Sanctioned Applications
+### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
-#### 1.2.2.1	Process Flow
+#### 1.2.2.1	Process Flow<a name='process-flow_SP' />
 
 In the backend, the PM Vishwakarma application will pull all the leads from PMV portal which are success in Pre BRE and Main BRE check will list in sanctioned inbox.
 
@@ -118,7 +118,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 8.** Click Disbursement Update to do the reverse update to PMV portal and the journey will be completed.
 
-#### 1.2.2.2	Sanction Inbox
+#### 1.2.2.2	Sanction Inbox<a name='sanction-inbox' />
 
 **Step 1.** Click Sanctioned Inbox the list of applications will display as shown below.
 
@@ -176,9 +176,9 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 ![History](History.png)
 
-### 1.2.3	Branch Assisted Journey
+### 1.2.3	Branch Assisted Journey<a name='branch-assisted-journey' />
 
-#### 1.2.3.1	Process Flow
+#### 1.2.3.1	<a name='process-flow-BA'></a>Process Flow
 
 The application which failed in Pre BRE and Main BRE will display under branch assisted journey.
 
@@ -198,7 +198,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 6.**	After the application is sanctioned the flow of this application will be same as mentioned from [Step 4.](id="Loop") to step 12 as mentioned in sanctioned backend flow.
 
-#### 1.2.3.2	Branch Assisted Inbox
+#### 1.2.3.2 <a name='branch-assisted-inbox'></a>Branch Assisted Inbox
 
 **Step 1.** Click **Branch Assisted Inbox** the list of applications will display as shown below.
 
