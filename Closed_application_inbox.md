@@ -53,8 +53,10 @@
 
 In this chapter, you learned how to process loan applications in PSB PM Vishwakarma Yojana portal, including auto-sanctioned and branch-assisted flows, from pulling applications and running validations to account handoff, disbursement, and updating statuses to the PMV portal.
 
-Click here to view [Closed Application](Branch_assisted_journey.md)
+Click here to view [Closed Application](PSB-PMV-scheme-user-manual
+/Closed_application_inbox.md)
 
-Click here to view [Branch Assisted Journey](branch_assisted_journey.md)
+Click here to view [Branch Assisted Journey](PSB-PMV-scheme-user-manual
+/Branch_assisted_journey.md)
 
 Click here to view [Sanction Inbox](#SanctionedApplications)
