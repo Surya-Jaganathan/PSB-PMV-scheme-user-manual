@@ -25,7 +25,7 @@ This document is prepared by SysArc Infomatix Pvt Ltd. SysArc Infomatix Pvt Ltd.
 
 ## Table of Content
 
-- [Chapter 1 Getting Started](#chapter-1-getting-started)
+- [Chapter 1 Getting Started](#GS)
     - [Introduction](#introduction)
     - [LAPS Scheduler to Fetch Leads from Portal](#laps-scheduler-to-fetch-leads-from-portal)
     - [Login Page](#login-page)
@@ -64,7 +64,7 @@ Any Warning message is represented with   (alert icon) at relevant locations.
 Any Alert messages are represented with   (alert icon) at relevant locations.
 Any Hyperlink is represented in with normal font in blue color, bolded, underlined and italicized and displays as “***Hyperlink***.”
 
-# Chapter 1 Getting Started
+# <a name='GS'></a>Chapter 1 Getting Started
 
 ## 1.1	Introduction
 
