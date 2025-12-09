@@ -36,7 +36,7 @@ This document is prepared by SysArc Infomatix Pvt Ltd. SysArc Infomatix Pvt Ltd.
             - [Process Flow](#process-flow_BA)
             - [Branch Assisted Inbox](#branch-assisted-inbox)
         - [Closed Application](#closed-application)
-            - [Process Flow](#process-flow)
+            - [Process Flow](#Process-flow_CA)
             - [Closed Application Inbox](#closed-application-inbox)
     - [Summary](#summary)
 
@@ -243,9 +243,9 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 ![Reject screen](Reject.png)
 
-### 1.2.4	Closed Application
+### 1.2.4	Closed Application<a name='closed-application' />
 
-#### 1.2.4.1	Process Flow
+#### 1.2.4.1	Process Flow<a name='Process-flow_CA' />
 
 **Step 1.** In the backend, At the end of the day, LAPS updates the closed status in the PMV tables for accounts that are closed in CBS.
 
@@ -269,7 +269,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 11.** After the update, the system displays an alert showing the count of successfully updated accounts.
 
-#### 1.2.4.2	Closed Application Inbox
+#### 1.2.4.2	Closed Application Inbox<a name='closed-application-inbox' />
 
 **Step 1.** Click Closed Application Inbox the set of tabs will display as shown below
 
@@ -293,6 +293,6 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 ![Update all button](Update all button.png)
 
-## 1.3	Summary
+## 1.3	Summary<a name='summary' />
 
 In this chapter, you learned how to process loan applications in PSB PM Vishwakarma Yojana portal, including auto-sanctioned and branch-assisted flows, from pulling applications and running validations to account handoff, disbursement, and updating statuses to the PMV portal.
