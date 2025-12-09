@@ -1,8 +1,4 @@
-<h1 style="text-align:center;" border-bottom: none; >SysArc Infomatix Pvt Ltd</h1>
-
-
-
-<h4 style="text-align:center;">
+# SysArc Infomatix Pvt Ltd
 
 LAPS/LENDperfect – User Manual
 
