@@ -176,8 +176,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 ![History](History.png)
 
-Click here to view [Closed Application](PSB-PMV-scheme-user-manual
-/Closed_application_inbox.md)
+Click here to view [Closed Application](https://github.com/Surya-Jaganathan/PSB-PMV-scheme-user-manual/blob/858615c2af6c8cc77ec117378a06e1eea910fd1b/Closed_application_inbox.md)
 
 Click here to view [Branch Assisted Journey](PSB-PMV-scheme-user-manual
 /Branch_assisted_journey.md)
