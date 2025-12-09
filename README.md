@@ -88,7 +88,7 @@ All the PM Vishwakarma applications punched by the applicants will be fetched by
 ## 1.2.1	Login Page
 On clicking the specific URL, you will land on Log in page as shown below.
 
-![Login page](image.png)
+![Login page](login page.png)
 
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
@@ -210,7 +210,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 2.** Click **View Application** to view the corresponding application.
 
-![Details Tab](image-6.png)
+![Details Tab](BA_View application.png)
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated.
 
