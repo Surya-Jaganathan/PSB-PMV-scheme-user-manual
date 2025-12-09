@@ -66,8 +66,10 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 ![Reject screen](Reject.png)
 
-Click here to view [Closed Application](Branch_assisted_journey.md)
+Click here to view [Closed Application](PSB-PMV-scheme-user-manual
+/Closed_application_inbox.md)
 
-Click here to view [Branch Assisted Journey](branch_assisted_journey.md)
+Click here to view [Branch Assisted Journey](PSB-PMV-scheme-user-manual
+/Branch_assisted_journey.md)
 
 Click here to view [Sanction Inbox](#SanctionedApplications)
