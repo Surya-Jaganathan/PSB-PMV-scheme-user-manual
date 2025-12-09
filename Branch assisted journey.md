@@ -65,3 +65,9 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 **Step 16.** Reject button will be available to you till the application is sanctioned. Enter the reject reason in the remarks section. Once you reject the application the status will be updated to Portal with the rejection reason.
 
 ![Reject screen](Reject.png)
+
+Click here to view [Closed Application](Branchassistedjourney.md)
+
+Click here to view [Branch Assisted Journey](branchassistedjourney.md)
+
+Click here to view [Sanction Inbox](###1.2.2SanctionedApplications)
