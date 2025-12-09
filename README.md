@@ -138,7 +138,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 5.** Click **Initiate DDE** to initiate the DDE for all the Legal documents in the LENDperfect system, and the customer will get the link to complete DDE at their end.
 
-![Initiate DDE](image.png)
+![Initiate DDE](Initiate DDE.png)
 
 **Step 6.** Till the completion of this activity by customer, the status will be marked as "**DDE on progress**".
 
@@ -152,15 +152,15 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 11.** Click Pre-Filled Document to view and download the list of prefilled documents.
 
-![Pre- Filled Documents](image-2.png)
+![Pre- Filled Documents](Pre filled soc.png)
 
 **Step 12.** Click **Manual Documentation** and then upload the customer-signed documents.
 
-![manual Documentation](image-4.png)
+![manual Documentation](manual Doc.png)
 
 **Step 13**. Click Upload to complete the upload.
 
-![Upload Button](image-5.png)
+![Upload Button](Upload.png)
 
 **Step 14.** The Account Handoff button is enabled once all signed documents are uploaded in the system.
 
@@ -168,17 +168,17 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 15.** Click Account handoff to complete the application process.
 
-![Application Sucessfull popup](image-7.png)
+![Application Sucessfull popup](Loan succes.png)
 
 **Step 16.** Click Disbursement Update to do the reverse update to PMV portal and the journey will be completed.
 
 **Step 17.** Click View Cibil Report to view and download the cibil report.
 
-![Cibil Report](image-8.png)
+![Cibil Report](Cibil.png)
 
 **Step 18.** Click History to view the history of the application.
 
-![History](image-9.png)
+![History](History.png)
 
 ### 1.2.3	Branch Assisted Journey
 
@@ -247,7 +247,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 16.** Reject button will be available to you till the application is sanctioned. Enter the reject reason in the remarks section. Once you reject the application the status will be updated to Portal with the rejection reason.
 
-![Reject screen](image-13.png)
+![Reject screen](Reject.png)
 
 ### 1.2.4	Closed Application
 
@@ -279,7 +279,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 1.** Click Closed Application Inbox the set of tabs will display as shown below
 
-![Closed Application Inbox](image-14.png)
+![Closed Application Inbox](Closed application inbox.png)
 
 **Step 2.** In the **Closed in Portal inbox**, Loan accounts for which the status update to the portal is successful at the time of running scheduler will be displayed.
 
@@ -291,13 +291,13 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 5.** Click **Update status** to manually update the closure status, if the update is successful, system will display “Update successful” message.
 
-![Update Application](image-16.png)
+![Update Application](Update application.png)
 
 **Step 6.** If any technical error occurs, system will display error to the user.
 
 **Step 7.**	Click **Update all** , system will trigger the status update API for all the applications that are displayed on screen.
 
-![Update all button](image-17.png)
+![Update all button](Update all button.png)
 
 ## 1.3	Summary
 
