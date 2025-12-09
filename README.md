@@ -175,3 +175,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 **Step 18.** Click History to view the history of the application.
 
 ![History](History.png)
+
+Click here to view [Closed Application](Closed application inbox.md)
+Click here to view [Branch Assisted Journey](branch assisted journey.md)
+Click here to view [Sanction Inbox](### 1.2.2	Sanctioned Applications)
