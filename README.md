@@ -176,7 +176,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 ![History](History.png)
 
-Click here to view [Closed Application](Closedapplicationinbox.md)
+Click here to view [Closed Application](Branch assisted journey.md)
 
 Click here to view [Branch Assisted Journey](branchassistedjourney.md)
 
