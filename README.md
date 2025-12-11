@@ -89,7 +89,8 @@ On clicking the specific URL, you will land on Log in page as shown below.
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
 
-![Home Page](Home screen.png){hight= 50% width=50%}
+![Home Page](Home screen.png){width=50% height=50%}
+
 
 ### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
