@@ -87,12 +87,13 @@ On clicking the specific URL, you will land on Log in page as shown below.
 
 ![Login page](login page.png)
 
+<img src='login page.png' alt='login page' width='100%'>
+
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
+
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
 
 ![Home Page](Home screen.png) 
-
-<img src="Home screen.png" alt="Description" width="50%" height='75%'>
 
 ### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
