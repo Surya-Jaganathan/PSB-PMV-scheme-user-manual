@@ -80,6 +80,7 @@ All the PM Vishwakarma applications punched by the applicants will be fetched by
 > - If pre-BRE & MAIN BRE Success, it will display under **Sanctioned Inbox**.
 > - If pre-BRE check fails, it will display under **Branch Assisted Inbox** for Manual processing of the application.
 > - If MAIN Bre check fails, it will display under **Branch Assisted Inbox** to know the reason for the failure.
+> 
 
 ## 1.2.1	Login Page<a name='login'></a>
 On clicking the specific URL, you will land on Log in page as shown below.
@@ -89,8 +90,9 @@ On clicking the specific URL, you will land on Log in page as shown below.
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
 
-![Home Page](Home screen.png){width=50% height=50%}
+![Home Page](Home screen.png) 
 
+<img src="Home screen.png" alt="Description" width="50%">
 
 ### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
