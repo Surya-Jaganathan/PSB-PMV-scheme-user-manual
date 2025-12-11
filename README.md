@@ -92,7 +92,7 @@ On clicking the specific URL, you will land on Log in page as shown below.
 
 ![Home Page](Home screen.png) 
 
-<img src="Home screen.png" alt="Description" width="50%" hight='75%'>
+<img src="Home screen.png" alt="Description" width="50%" height='75%'>
 
 ### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
