@@ -85,8 +85,6 @@ All the PM Vishwakarma applications punched by the applicants will be fetched by
 ## 1.2.1	Login Page<a name='login'></a>
 On clicking the specific URL, you will land on Log in page as shown below.
 
-![Login page](login page.png)
-
 <img src='login page.png' alt='login page' width='100%'>
 
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
