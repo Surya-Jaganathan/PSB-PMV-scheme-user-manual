@@ -1,0 +1,88 @@
+
+# Gemfile
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3"
+gem
+
+
+title: "Your Manual"
+description: "User manual"
+theme: just-the-docs
+
+# If you use 'remote_theme' (for GitHub Pages gem), use:
+# remote_theme: just-the-docs/just-the-docs
+
+# Optional: baseurl if publishing from a project site
+# url: https://<your-username>.github.io
+# baseurl: /<your-repo>
+
+# Enable search
+just_the_docs:
+  search_enabled: true
+``
+
+
+---
+layout: default
+title: User Manual
+nav_order: 1
+---
+
+# User Manual
+{:toc}
+
+## Getting started
+Content…
+
+### Installation
+Content…
+
+## Features
+Content
+
+
+/* Right-side TOC for Just the Docs */
+.toc-sidebar {
+  position: sticky;
+  top: 6rem;              /* below the site header */
+  float: right;
+  width: 280px;
+  max-height: calc(100vh - 8rem);
+  overflow: auto;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border-left: 1px solid #d0d7de;   /* subtle divider */
+}
+
+/* Keep main content from overlapping the floated TOC */
+.page-content {
+  overflow: hidden;       /* establish block formatting context */
+}
+
+/* Make the TOC list tidy */
+.toc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+.toc-sidebar li {
+  margin: 0.25rem 0;
+}
+.toc-sidebar a {
+  text-decoration: none;
+}
+``
+
+
+# _config.yml
+just_the_docs:
+  search_enabled: true
+  # Load custom styles
+  css:
+   
+
+# User Manual
+<div class="toc-sidebar">
+{:toc}
+</div>
+
