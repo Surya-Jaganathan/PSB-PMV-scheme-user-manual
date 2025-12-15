@@ -113,7 +113,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated and non editable.
 
-**Step 4.** <a id="Loop"></a> Once the application is approved, the system switches to Digital Documentation mode, which is the default flow.
+**Step 4.** Once the application is approved, the system switches to Digital Documentation mode, which is the default flow.
 
 **Step 5.** Click **Initiate DDE** to initiate the DDE for all the Legal documents in the LENDperfect system, and the customer will get the link to complete DDE at their end.
 
