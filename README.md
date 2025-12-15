@@ -23,25 +23,6 @@ This document is prepared by SysArc Infomatix Pvt Ltd. SysArc Infomatix Pvt Ltd.
 |---|---|---|---|---|---|
 | 1.o | 27 Nov 2025 |||||
 
-## Table of Content
-
-- [Chapter 1 Getting Started](#GS)
-    - [Introduction](#i)
-    - [LAPS Scheduler to Fetch Leads from Portal](#laps)
-    - [Login Page](#login)
-        - [Sanctioned Applications](#sanctioned-applications)
-            - [Process Flow](#process-flow_SP)
-            - [Sanction Inbox](#sanction-inbox)
-        - [Branch Assisted Journey](#branch-assisted-journey)
-            - [Process Flow](#process-flow_BA)
-            - [Branch Assisted Inbox](#branch-assisted-inbox)
-        - [Closed Application](#closed-application)
-            - [Process Flow](#Process-flow_CA)
-            - [Closed Application Inbox](#closed-application-inbox)
-    - [Summary](#summary)
-
-<!-- /TOC -->
-
 ## About SysArc
 
 Founded in 1997, with industry strength and experience in the financial and banking sector. We develop world-class banking solutions - primarily focused on effective implementation of the business process, cutting down on operating expenses, reducing processing time and increasing customer satisfaction multi-fold. We have expanded into the financial services software arena, with the same dedication to excellence to be a touchstone of corporate culture. We do not simply produce software. we create innovative solutions that allow the customers to outperform their competitors.
