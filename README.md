@@ -66,7 +66,7 @@ All the PM Vishwakarma applications punched by the applicants will be fetched by
 ## 1.2.1	Login Page<a name='login'></a>
 On clicking the specific URL, you will land on Log in page as shown below.
 
-![Home Page](https://github.com/Surya-Jaganathan/PSB-PMV-scheme-user-manual/blob/605fdbd7db76e8c66ef698d971aa7d1567addcad/login-page.png)
+![Home Page](https://github.com/Surya-Jaganathan/PSB-PMV-scheme-user-manual/blob/605fdbd7db76e8c66ef698d971aa7d1567addcad/login%20page.png)
 
 **Step 1.**	Enter the **User ID**, **Password**, and **Captcha**, and then click Login.
 
