@@ -72,7 +72,7 @@ On clicking the specific URL, you will land on Log in page as shown below.
 
 **Step 2.** Upon successful login, you land on the home screen where the set of inboxes will be shown as follows.
 
-![Home Page](Home screen.png) 
+![Home Page](Home%20screen.png) 
 
 ### 1.2.2	Sanctioned Applications<a name='sanctioned-applications' />
 
@@ -105,11 +105,11 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 1.** Click Sanctioned Inbox the list of applications will display as shown below.
 
-![Sanction Inbox](Sanction Inbox.png)
+![Sanction Inbox](Sanction%20Inbox.png)
 
 **Step 2.** Click View Application to view the corresponding application.
 
-![Detils tab](San_View application.png)
+![Detils tab](San_View%20application.png)
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated and non editable.
 
@@ -117,7 +117,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 5.** Click **Initiate DDE** to initiate the DDE for all the Legal documents in the LENDperfect system, and the customer will get the link to complete DDE at their end.
 
-![Initiate DDE](Initiate DDE.png)
+![Initiate DDE](Initiate%20DDE.png)
 
 **Step 6.** Till the completion of this activity by customer, the status will be marked as "**DDE on progress**".
 
@@ -131,11 +131,11 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 11.** Click Pre-Filled Document to view and download the list of prefilled documents.
 
-![Pre- Filled Documents](Pre filled soc.png)
+![Pre- Filled Documents](Pre%20filled%20soc.png)
 
 **Step 12.** Click **Manual Documentation** and then upload the customer-signed documents.
 
-![manual Documentation](manual Doc.png)
+![manual Documentation](manual%20Doc.png)
 
 **Step 13**. Click Upload to complete the upload.
 
@@ -147,7 +147,7 @@ In the backend, the PM Vishwakarma application will pull all the leads from PMV 
 
 **Step 15.** Click Account handoff to complete the application process.
 
-![Application Sucessfull popup](Loan succes.png)
+![Application Sucessfull popup](Loan%20succes.png)
 
 **Step 16.** Click Disbursement Update to do the reverse update to PMV portal and the journey will be completed.
 
@@ -185,11 +185,11 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 1.** Click **Branch Assisted Inbox** the list of applications will display as shown below.
 
-![Branch Assisted Journey](Branch assisted inbox.png)
+![Branch Assisted Journey](Branch%20assisted%20inbox.png)
 
 **Step 2.** Click **View Application** to view the corresponding application.
 
-![Details Tab](BA_View application.png)
+![Details Tab](BA_View%20application.png)
 
 **Step 3.** **Personal details**, **Communication details**, **loan details**, **business details** section are auto populated.
 
@@ -256,7 +256,7 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 1.** Click Closed Application Inbox the set of tabs will display as shown below
 
-![Closed Application Inbox](Closed application inbox.png)
+![Closed Application Inbox](Closed%20application%20inbox.png)
 
 **Step 2.** In the **Closed in Portal inbox**, Loan accounts for which the status update to the portal is successful at the time of running scheduler will be displayed.
 
@@ -268,13 +268,13 @@ The application which failed in Pre BRE and Main BRE will display under branch a
 
 **Step 5.** Click **Update status** to manually update the closure status, if the update is successful, system will display “Update successful” message.
 
-![Update Application](Update application.png)
+![Update Application](Update%20application.png)
 
 **Step 6.** If any technical error occurs, system will display error to the user.
 
 **Step 7.**	Click **Update all** , system will trigger the status update API for all the applications that are displayed on screen.
 
-![Update all button](Update all button.png)
+![Update all button](Update%20all%20button.png)
 
 ## 1.3	Summary<a name='summary' />
 
